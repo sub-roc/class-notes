@@ -18,6 +18,7 @@
 	- He is king by his forefather's death but Cawdor is alive
 - The witches disappear
 - They start to laugh off the prophecies (1.3.86-91)
+- Ross and Angus appear and inform Macbeth that he has been made Thane of Cawdor after Cawdor was sentenced to death (see [[Scene 1.2#Plot|1.2.74-75]])
 - Macbeth makes multiple asides
 - Mentions the king's death (1.3.154-156)
 	- "If chance will have me king, while chance may crown me; Without my stir"
